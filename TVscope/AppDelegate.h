@@ -1,0 +1,17 @@
+//
+//  AppDelegate.h
+//  TVscope
+//
+//  Created by Atanas Bahchevanov on 9/24/15.
+//  Copyright © 2015 Atanas Bahchevanov. All rights reserved.
+//
+
+#import <UIKit/UIKit.h>
+
+@interface AppDelegate : UIResponder <UIApplicationDelegate>
+
+@property (strong, nonatomic) UIWindow *window;
+
+
+@end
+
